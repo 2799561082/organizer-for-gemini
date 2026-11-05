@@ -1,7 +1,7 @@
 // ==== Replace these placeholders before going live ====
 // Site URL: https://gemini.ownthecost.com
 window.SITE_CONFIG = {
-  CHROME_WEB_STORE_URL: "https://chromewebstore.google.com/detail/REPLACE_WITH_EXTENSION_ID",
+  CHROME_WEB_STORE_URL: "https://chromewebstore.google.com/detail/organizer-for-gemini/ppcjgpaihaccfdbckmchcgdeombkmdig",
   // Waffo Pancake product purchase links. TEST MODE for now (test=true):
   // before launch, publish both products to production and drop "&test=true".
   CHECKOUT_MONTHLY_URL: "https://pancake.waffo.ai/store/organizer-for-gemini-ok6lonj5/product/PROD_47qLgpqls2Nb3rtuOtNeeL?type=subscription&currency=USD&test=true",
